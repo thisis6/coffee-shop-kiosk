@@ -1,0 +1,11 @@
+{
+  "name": "LV Coffee Shop",
+  "short_name": "LVCoffee",
+  "start_url": "/lv-coffee/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/lv-coffee/img/logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "/lv-coffee/img/logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
